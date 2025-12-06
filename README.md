@@ -3,7 +3,7 @@
 Real-time Earth monitoring application using NASA APIs with Spring WebFlux and Angular 20.
 
 ![Java](https://img.shields.io/badge/Java-25-orange?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-green?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-green?style=flat-square)
 ![Angular](https://img.shields.io/badge/Angular-20-red?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
